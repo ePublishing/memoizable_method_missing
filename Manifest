@@ -1,0 +1,7 @@
+CHANGELOG
+LICENSE
+README.rdoc
+Rakefile
+lib/epublishing/memoizable_method_missing.rb
+spec/epublishing/memoizable_method_missing_spec.rb
+Manifest
